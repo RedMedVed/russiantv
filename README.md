@@ -8,6 +8,6 @@ This is non-commercial project, the main goal is to check R skills after 3 parts
 ## Files
 | Name  | Description  |
 |---|---|
-| parser.R  | Collect main dataframe, write to disk |
-| cleaner.R | Tidy main dataframe, format links and dates |
-|   |   | 
+| parser.R  | Collects main dataframe, write to disk |
+| cleaner.R | Tidies main dataframe, format links and dates |
+| analyser.R | Will be soon | 
